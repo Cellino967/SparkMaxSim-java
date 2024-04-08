@@ -1,6 +1,6 @@
 {
     "fileName": "SparkMaxSim.json",
-    "name": "Fletch3555_SparkMaxSim",
+    "name": "Cellino967.SparkMaxSim",
     "version": "2024.2.4",
     "uuid": "8f912734-68e1-4d49-9a52-94575cb68239",
     "mavenUrls": [
@@ -9,7 +9,7 @@
     "jsonUrl": "https://www.kauailabs.com/dist/frc/2024/navx_frc.json",
     "javaDependencies": [
         {
-            "groupId": "net.thefletcher",
+            "groupId": "com.github.Cellino967",
             "artifactId": "SparkMaxSim-java",
             "version": "2024.2.4"
         }
