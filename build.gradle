@@ -13,8 +13,8 @@ repositories {
     }
 }
 
-def WPIversion = '2022.3.2'
-def REVversion = '2022.2.4'
+def WPIversion = '2024.3.2'
+def REVversion = '2024.2.4'
 
 dependencies {
     implementation "edu.wpi.first.wpilibj:wpilibj-java:$WPIversion"
